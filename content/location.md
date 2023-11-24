@@ -27,6 +27,6 @@ Ziauddin University
 
 #### Office location
 
-<iframe src="https://www.google.com/maps/embed?pb=!4m6!3m5!1s0x3eb33f9bbfffffff:0x21ad56e18eb2b3e8!8m2!3d24.9276875!4d67.0416875!16s%2Fg%2F11cknm01nc?entry=ttu" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14472.514530216637!2d67.0416875!3d24.9276875!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3eb33f9bbfffffff%3A0x21ad56e18eb2b3e8!2sZiauddin%20University%20Faculty%20of%20Engineering%20%26%20Management!5e0!3m2!1sen!2s!4v1700840813066!5m2!1sen!2s" width="700" height="500" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
 
