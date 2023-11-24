@@ -6,8 +6,8 @@ description: "Schedule and location for office hours."
 
 --- 
 #### Schedule
-
-Office hours take place on Day at Hour.
+Office Days: Monday to Friday 
+Office Hours: 08:30 AM 🕣 to 04:30 PM 🕟.
 
 ---
 
