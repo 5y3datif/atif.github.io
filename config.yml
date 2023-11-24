@@ -80,14 +80,8 @@ lems, radial basis function neural networks, computer vision and deep learning."
           url: officehours/
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=FHaMgJkAAAAJ&hl=en&oi=ao
-        # - name: YouTube
-        #  url: https://www.youtube.com/@pmichaillat
         - name: GitHub
           url: https://github.com/5y3datif
-       # - name: Substack
-       #   url: https://pmichaillat.substack.com
-       # - name: Twitter
-       #   url: https://twitter.com/pmichaillat
 
     assets:
         disableHLJS: true
