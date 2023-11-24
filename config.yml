@@ -1,4 +1,4 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
+baseURL: "https://5y3datif.github.io/atif.github.io/" 
 title: Dr. Syed Muhammad Atif
 paginate: 20
 theme: PaperMod
@@ -25,8 +25,8 @@ menu:
           weight: 4
 
 params:
-    description: "I am a Professor of Subject at the University of Place. My research covers various topics.
-consequat."
+    description: "I am currently an Assistant Professor at the Department of Computer Science & Software Engineering, ZUFESTM, Ziauddin University. My research covers nonnegative matrix factorization, Network Tomography, ill‑posed prob‑
+lems, radial basis function neural networks, computer vision and deep learning."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -51,7 +51,7 @@ consequat."
     profileMode:
           enabled: true
           title: Dr. Syed Muhammad Atif
-          subtitle: "I am a Professor of Subject at the University of Place. I work on various topics. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo."
+          subtitle: "I am currently an Assistant Professor at the Department of Computer Science & Software Engineering, ZUFESTM, Ziauddin University"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
@@ -73,17 +73,17 @@ consequat."
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:pascal.michaillat@gmail.com
+          url: mailto:syed.muhammad.atif@gmail.com
         - name: Location
           url: location/
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=FHaMgJkAAAAJ&hl=en&oi=ao
         - name: YouTube
           url: https://www.youtube.com/@pmichaillat
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/5y3datif
         - name: Substack
           url: https://pmichaillat.substack.com
         - name: Twitter
