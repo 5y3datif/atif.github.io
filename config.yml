@@ -19,10 +19,7 @@ menu:
           weight: 2
         - name: Data
           url: data/
-          weight: 3 
-        - name: Newsletter
-          url: https://pmichaillat.substack.com
-          weight: 4
+          weight: 3
 
 params:
     description: "I am currently an Assistant Professor at the Department of Computer Science & Software Engineering, ZUFESTM, Ziauddin University. My research covers nonnegative matrix factorization, Network Tomography, ill‑posed prob‑
@@ -63,12 +60,6 @@ lems, radial basis function neural networks, computer vision and deep learning."
               url: courses/
             - name: Data
               url: data/
-            - name: Newsletter
-              url: https://pmichaillat.substack.com
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
     socialIcons:
         - name: CV
           url: cv.pdf
@@ -82,7 +73,6 @@ lems, radial basis function neural networks, computer vision and deep learning."
           url: https://scholar.google.com/citations?user=FHaMgJkAAAAJ&hl=en&oi=ao
         - name: GitHub
           url: https://github.com/5y3datif
-
     assets:
         disableHLJS: true
         disableScrollBarStyle: true
