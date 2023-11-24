@@ -6,7 +6,7 @@ description: "Schedule and location for office hours."
 
 --- 
 #### Schedule
-Office Days: Monday to Friday 
+Office Days: Monday to Friday</br>
 Office Hours: 08:30 AM 🕣 to 04:30 PM 🕟.
 
 ---
