@@ -1,17 +1,17 @@
 ---
-title: "Sindh Gushan" 
-date: 2015-12-01
-tags: ["keyword 1","keyword 2","keyword 4"]
-author: ["Author Name 1", "Author Name 2"]
+title: "Multi-Kernel Fusion for RBF Neural Networks" 
+date: 2023
+tags: ["Pattern classification","Function approximation","Non-linear system identification", "Neural networks", "Radial basis function", "Gaussian kernel", "Support vector machine", "Euclidean distance", "Cosine distance", "Kernel fusion"]
+author: ["Syed Muhammad Atif", "Shujaat Khan", "Imran Naseem", "· Roberto Togneri", "Mohammed Bennamoun"]
 description: "This paper shows other things. Published in Journal Name, 2015." 
 summary: "This paper shows other things using other techniques and different data." 
 cover:
-    image: "paper2.png"
-    alt: "Image caption"
+    image: "paper6_fig1.png"
+    alt: "RBF Architecture"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1073/pnas.1816454115"
-    Text: "Other Journal Name"
+    URL: "https://doi.org/10.1007/s11063-022-10925-3"
+    Text: "Neural Processing Letters "
 
 ---
 
@@ -42,15 +42,16 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
 
 ```BibTeX
-@article{AAYY,
-author = {Author 1 and Author 2},
-doi = {paper_doi},
-journal = {Journal},
-number = {Issue},
-pages = {XXX--YYY},
-title ={Title},
-volume = {Volume},
-year = {Year}}
+@article{atif2023multi,
+  title={Multi-kernel fusion for RBF neural networks},
+  author={Atif, Syed Muhammad and Khan, Shujaat and Naseem, Imran and Togneri, Roberto and Bennamoun, Mohammed},
+  journal={Neural Processing Letters},
+  volume={55},
+  number={2},
+  pages={1045--1069},
+  year={2023},
+  publisher={Springer}
+}
 ```
 
 ---
