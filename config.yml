@@ -23,7 +23,7 @@ menu:
 
 params:
     description: "With a background in computer science and software engineering, I am currently an Assistant Professor at the Ziauddin University in Karachi,
-Pakistan. ."
+Pakistan."
     author: Name
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -49,7 +49,14 @@ Pakistan. ."
           enabled: true
           title: Dr. Syed Muhammad Atif
           subtitle: "With a background in computer science and software engineering, I am currently an Assistant Professor at the Ziauddin University in Karachi,
-Pakistan."
+Pakistan. Prior to joining Ziauddin University, I held the position of Senior AI Developer at HetroCloud, a research project funded by the National
+Center of Big Data and Cloud Computing (NCBC) that was executed at the Karachi Institute of Economics and Technology (KIET). My expertise in
+machine learning and computer vision spans over five years, and I have contributed to several peer‑reviewed articles published in renowned con‑
+ferences and journals such as Elsevier Pattern Recognition Letters, Elsevier Computer Networks, Springer Neural Processing Letters, IEEE Access,
+KSII Transactions on Internet and Information Systems, and IEEE TENCON. In 2017, I received the HEC Indigenous Ph.D. Fellowship in recognition
+of my academic achievements to pursue doctoral studies. My research interests lie in Matrix Factorization, Network Tomography, ill‑posed prob‑
+lems, radial basis function neural networks, computer vision and deep learning. Additionally, I have served as a reviewer for the Elsevier journal
+Results in Control and Optimization"
           imageUrl: "picture.jpeg"
           imageWidth: 160
           imageHeight: 160
