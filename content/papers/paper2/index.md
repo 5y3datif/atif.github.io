@@ -6,8 +6,8 @@ author: ["Syed Muhammad Atif", "Shujaat Khan", "Imran Naseem", "· Roberto Togne
 description: "In this paper, we propose a novel multi-kernel RBFNN in which every base kernel has its own (local) weight." 
 summary: "In this paper, we propose a novel multi-kernel RBFNN in which every base kernel has its own (local) weight. This novel flexibility in the network provides better performance such as faster convergence rate, better local minima and resilience against stucking in poor local minima. These performance gains are achieved at a competitive computational complexity compared to the contemporary multi-kernel RBF algorithms." 
 cover:
-    image: "paper6_fig1.png"
-    alt: "RBF Architecture"
+    image: "multi_kernel_fusion_for_rbfnn.png"
+    alt: "Multi Kernel Fusion RBF Architecture"
     relative: false
 editPost:
     URL: "https://doi.org/10.1007/s11063-022-10925-3"
@@ -19,7 +19,7 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper6.pdf)
++ [Paper](multi_kernel_fusion_for_rbfnn.pdf)
 + [Code and data](https://github.com/Shujaat123/Robust_RBF)
 
 ---
