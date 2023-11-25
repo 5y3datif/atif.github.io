@@ -14,11 +14,11 @@ menu:
         - name: Publications
           url: papers/
           weight: 1
-        - name: Courses
-          url: courses/
+        - name: Curriculum Vitae
+          url: cv.pdf
           weight: 2
-        - name: Data
-          url: data/
+        - name: Contact Me
+          url: officehours/
           weight: 3
 
 params:
@@ -64,10 +64,10 @@ Results in Control and Optimization"
           buttons:
             - name: Publications
               url: papers/
-            - name: Courses
-              url: courses/
-            - name: Data
-              url: data/
+            - name: Curriculum Vitae
+              url: cv.pdf
+            - name: Contact Me
+              url: officehours/
     socialIcons:
         - name: CV
           url: cv.pdf
