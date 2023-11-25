@@ -3,8 +3,8 @@ title: "Multi-Kernel Fusion for RBF Neural Networks"
 date: 2023-04-01
 tags: ["Pattern classification","Function approximation","Non-linear system identification", "Neural networks", "Radial basis function", "Gaussian kernel", "Support vector machine", "Euclidean distance", "Cosine distance", "Kernel fusion"]
 author: ["Syed Muhammad Atif", "Shujaat Khan", "Imran Naseem", "· Roberto Togneri", "Mohammed Bennamoun"]
-description: "This paper shows other things. Published in Journal Name, 2015." 
-summary: "This paper shows other things using other techniques and different data." 
+description: "In this paper, we propose a novel multi-kernel RBFNN in which every base kernel has its own (local) weight." 
+summary: "In this paper, we propose a novel multi-kernel RBFNN in which every base kernel has its own (local) weight. This novel flexibility in the network provides better performance such as faster convergence rate, better local minima and resilience against stucking in poor local minima. These performance gains are achieved at a competitive computational complexity compared to the contemporary multi-kernel RBF algorithms." 
 cover:
     image: "paper6_fig1.png"
     alt: "RBF Architecture"
@@ -19,9 +19,8 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper2.pdf)
-+ [Online appendix](appendix2.pdf)
-+ [Code and data](https://github.com/pmichaillat/unemployment-gap)
++ [Paper](paper6.pdf)
++ [Code and data](https://github.com/Shujaat123/Robust_RBF)
 
 ---
 
@@ -33,7 +32,7 @@ A simple yet effective architectural design of radial basis function neural netw
 
 ##### Figure X: Figure caption
 
-![](paper2.png)
+![](multi_kernel_fusion_for_rbfnn.png)
 
 ---
 
