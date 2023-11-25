@@ -57,5 +57,4 @@ Atif, Syed Muhammad, Shujaat Khan, Imran Naseem, Roberto Togneri, and Mohammed B
 
 ##### Related material
 
-+ [Presentation slides](presentation2.pdf)
 
