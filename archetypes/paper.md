@@ -1,11 +1,12 @@
 ---
-title: "Paper Title (less than 70 characters)" 
+title: "Improved SVD‑based initialization for nonnegative
+matrix factorization using low‑rank correction" 
 date: 2012-06-01
 url: /paper/
 aliases: 
     - /old_url.html
 tags: ["keyword 1","keyword 2"]
-author: ["Paper Author 1", "Paper Author 2"]
+author: ["Syed Muhammad Atif", "Sameer Qazi"]
 description: "Paper description for search engines (less than 155 characters)" 
 summary: "Paper summary for list page (less than 265 characters)"
 cover:
