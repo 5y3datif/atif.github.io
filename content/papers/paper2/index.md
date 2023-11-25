@@ -39,7 +39,7 @@ A simple yet effective architectural design of radial basis function neural netw
 
 ##### Citation
 
-Author 1 and Author 2. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Atif, Syed Muhammad, Shujaat Khan, Imran Naseem, Roberto Togneri, and Mohammed Bennamoun. "Multi-kernel fusion for RBF neural networks." Neural Processing Letters 55, no. 2 (2023): 1045-1069. https://doi.org/10.1007/s11063-022-10925-3.
 
 ```BibTeX
 @article{atif2023multi,
