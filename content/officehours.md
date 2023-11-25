@@ -13,7 +13,7 @@ Office Hours: 08:30 AM 🕣 to 04:30 PM 🕟.
 
 #### Location
 
-By default meetings are in my office. I am also available for virtual meetings on Zoom.
+By default meetings are in <a href="https://location/">my office</a>. I am also available for virtual meetings on Zoom.
 
 ---
 
