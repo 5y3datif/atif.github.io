@@ -11,7 +11,7 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 1
         - name: Courses
