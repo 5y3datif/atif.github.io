@@ -62,7 +62,7 @@ Results in Control and Optimization"
           imageHeight: 160
           imageTitle: Dr. Syed Muhammad Atif
           buttons:
-            - name: Papers
+            - name: Publications
               url: papers/
             - name: Courses
               url: courses/
