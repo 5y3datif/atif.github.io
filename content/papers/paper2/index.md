@@ -1,6 +1,6 @@
 ---
 title: "Multi-Kernel Fusion for RBF Neural Networks" 
-date: 2023
+date: 2023-04-01
 tags: ["Pattern classification","Function approximation","Non-linear system identification", "Neural networks", "Radial basis function", "Gaussian kernel", "Support vector machine", "Euclidean distance", "Cosine distance", "Kernel fusion"]
 author: ["Syed Muhammad Atif", "Shujaat Khan", "Imran Naseem", "· Roberto Togneri", "Mohammed Bennamoun"]
 description: "This paper shows other things. Published in Journal Name, 2015." 
