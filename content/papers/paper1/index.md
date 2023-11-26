@@ -1,12 +1,12 @@
 ---
 title: "Structured nonnegative matrix factorization for traffic flow estimation of large cloud networks" 
-date: 2021-24-12
-tags: ["traffic matrix","inverse problem","routing matrix", "nonnegativity", "autoregression", "orthogonality", "training algorithm"]
+date: 2021-12-24
+tags: ["Autoregressive model", "Distance preserving transformation", "Graph embedding", "Nesterov accelerated gradient", "Network traffic matrix estimation", "Nonnegative matrix factorization"]
 author: "Syed Muhammad Atif, Nicolas Gillis, Sameer Qazi, Imran Naseem"
 description: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
 summary: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
 cover:
-    image: "paper1.png"
+    image: "structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.png"
     alt: "Image caption"
     relative: false
 editPost:
@@ -19,9 +19,8 @@ editPost:
 
 ##### Download
 
-+ [Paper](paper1.pdf)
-+ [Online appendix](appendix1.pdf)
-+ [Code and data](https://github.com/pmichaillat/job-rationing)
++ [Paper](https://www.sciencedirect.com/science/article/abs/pii/S1389128621004771)
++ [Code and data](https://github.com/5y3datif/MCST-NMF)
 
 ---
 
@@ -63,6 +62,6 @@ publisher = "Elsevier",
 
 ##### Related material
 
-+ [Arxiv Version](structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.pdf)
++ [arXiv Version](structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.pdf)
 + [Code](https://github.com/5y3datif/MCST-NMF) – MATLAB Code and assosiated datasets used for simulations in the paper.
 
