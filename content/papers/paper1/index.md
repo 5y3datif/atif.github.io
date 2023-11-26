@@ -6,7 +6,7 @@ author: "Syed Muhammad Atif, Nicolas Gillis, Sameer Qazi, Imran Naseem"
 description: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
 summary: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
 cover:
-    image: "structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.png"
+    image: "structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.jpg"
     alt: "Image caption"
     relative: false
 editPost:
@@ -32,7 +32,7 @@ Network traffic matrix estimation is an ill-posed linear inverse problem: it req
 
 ##### Figure X: Figure caption
 
-![](structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.png)
+![](structured_nonnegative_matrix_factorization_for_traffic_flow_estimation.jpg)
 
 ---
 
