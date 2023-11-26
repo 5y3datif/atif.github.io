@@ -1,17 +1,17 @@
 ---
-title: "Pakistan" 
-date: 2012-06-01
-tags: ["keyword 1","keyword 2","keyword 3"]
-author: "Author Name"
-description: "This paper shows things. Published in Journal Name, 2012." 
-summary: "This paper shows things using various techniques and data." 
+title: "Structured nonnegative matrix factorization for traffic flow estimation of large cloud networks" 
+date: 2021-24-12
+tags: ["traffic matrix","inverse problem","routing matrix", "nonnegativity", "autoregression", "orthogonality", "training algorithm"]
+author: "Syed Muhammad Atif, Nicolas Gillis, Sameer Qazi, Imran Naseem"
+description: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
+summary: "In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence." 
 cover:
     image: "paper1.png"
     alt: "Image caption"
     relative: false
 editPost:
-    URL: "https://doi.org/10.1257/aer.102.4.1721"
-    Text: "Journal Name"
+    URL: "https://doi.org/10.1016/j.comnet.2021.108564"
+    Text: "Computer Networks"
 
 ---
 
@@ -27,7 +27,7 @@ editPost:
 
 ##### Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Network traffic matrix estimation is an ill-posed linear inverse problem: it requires to estimate the unobservable origin destination traffic flows, X, given the observable link traffic flows, Y, and a binary routing matrix, A, which are such that Y = AX. This is a challenging but vital problem as accurate estimation of OD flows is required for several network management tasks. In this paper, we propose a novel model for the network traffic matrix estimation problem which maps high-dimension OD flows to low-dimension latent flows with the following three constraints: (1) nonnegativity constraint on the estimated OD flows, (2) autoregression constraint that enables the proposed model to effectively capture temporal patterns of the OD flows, and (3) orthogonality constraint that ensures the mapping between low-dimensional latent flows and the corresponding link flows to be distance preserving. The parameters of the proposed model are estimated with a training algorithm based on Nesterov accelerated gradient and generally shows fast convergence. We validate the proposed traffic flow estimation model on two real backbone IP network datasets, namely Internet2 and GÉANT. Empirical results show that the proposed model outperforms the state-of-the-art models not only in terms of tracking the individual OD flows but also in terms of standard performance metrics. The proposed model is also found to be highly scalable compared to the existing state-of-the-art approaches.
 
 ---
 
