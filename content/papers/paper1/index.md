@@ -38,7 +38,7 @@ Network traffic matrix estimation is an ill-posed linear inverse problem: it req
 
 ##### Citation
 
-Author. Year. "Title." *Journal* Volume (Issue): First page–Last page. https://doi.org/paper_doi.
+Syed Muhammad Atif, Nicolas Gillis, Sameer Qazi, Imran Naseem, Structured nonnegative matrix factorization for traffic flow estimation of large cloud networks, Computer Networks, Volume 201, 2021, 108564, ISSN 1389-1286, https://doi.org/10.1016/j.comnet.2021.108564.
 
 ```BibTeX
 @article{bb2dd20a1d6449319632a60904d44c4d,
