@@ -1,0 +1,107 @@
+baseURL: "https://5y3datif.github.io/atif.github.io/" 
+title: Dr. Syed Muhammad Atif
+paginate: 20
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Publications
+          url: papers/
+          weight: 1
+        - name: Curriculum Vitae
+          url: cv.pdf
+          weight: 2
+        - name: Contact Me
+          url: officehours/
+          weight: 3
+
+params:
+    description: "With a background in computer science and software engineering, I am currently serving as an Assistant Professor at the Sir Syed University of Engineering and Technology, Karachi, Pakistan."
+    author: Name
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowRssButtonInSectionTermList: false
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Dr. Syed Muhammad Atif
+          subtitle: "With a background in computer science and software engineering, I am currently serving as an Assistant Professor 
+          at Sir Syed University of Engineering and Technology (SSUET), Karachi, Pakistan. Before joining SSUET, I have served as 
+          Assistant Professor at the Ziauddin University in Karachi, Pakistan for two years. Prior to joining Ziauddin University, 
+          I held the position of Senior AI Developer at HetroCloud, a research project funded by 
+          the National Center of Big Data and Cloud Computing (NCBC) that was executed at the Karachi Institute of Economics and Technology (KIET). 
+          My expertise in machine learning and computer vision spans over five years, and I have contributed to several peer‑reviewed articles 
+          published in renowned conferences and journals such as Elsevier Pattern Recognition Letters, Elsevier 
+          Computer Networks, Springer Neural Processing Letters, IEEE Access, KSII Transactions on Internet and Information 
+          Systems, and IEEE TENCON. In 2017, I received the HEC Indigenous Ph.D. Fellowship in recognition of my academic 
+          achievements to pursue doctoral studies. My research interests lie in Matrix Factorization, Network Tomography, 
+          ill‑posed problems, radial basis function neural networks, computer vision and deep learning. Additionally, I have 
+          served as a reviewer for the Elsevier journals Computer Networks and Results in Control and Optimization."
+          imageUrl: "picture.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          imageTitle: Dr. Syed Muhammad Atif
+          buttons:
+            - name: Publications
+              url: papers/
+            - name: Curriculum Vitae
+              url: cv.pdf
+            - name: Contact Me
+              url: officehours/
+    socialIcons:
+        - name: CV
+          url: cv.pdf
+        - name: Email
+          url: mailto:syed.muhammad.atif@gmail.com
+        - name: Location
+          url: location/
+        - name: Office Hours
+          url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=FHaMgJkAAAAJ&hl=en&oi=ao
+        - name: GitHub
+          url: https://github.com/5y3datif
+    assets:
+        disableHLJS: true
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Dr. Syed Muhammad Atif"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
