@@ -9,7 +9,7 @@ description: "Mailing and office addresses at the Sir Syed University of Enginee
 
 #### Mailing address
 
-Department of Computer Science & Information Technology
+Department of Computer Science & Information Technology,
 Block H,
 Sir Syed University of Engineering & Technology,
 ST-16 Main University Rd, Block 5 Gulshan-e-Iqbal, Karachi
